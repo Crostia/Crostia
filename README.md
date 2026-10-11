@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, there 👋
 
-<!--
-**Crostia/Crostia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 I'm crostia.
+- 🔧 Code: Vibecoding, Vibecoding, still Vibecoding
+- 🌏 Language I speak: Mandarin
 
-Here are some ideas to get you started:
+## Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Vibecoding, Vibecoding, still Vibecoding**
+
+## Stats
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crostia)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crostia&show_icons=true&rank_icon=percentile)
