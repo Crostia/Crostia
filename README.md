@@ -4,9 +4,11 @@ Hello, there 👋
 - 🔧 Code: Vibecoding, Vibecoding, still Vibecoding
 - 🌏 Language I speak: Mandarin
 
-## Code
+## Languages that I use
 
-**Vibecoding, Vibecoding, still Vibecoding**
+![Vibecoding](https://img.shields.io/badge/Vibecoding-3178C6?style=for-the-badge)
+![Vibecoding](https://img.shields.io/badge/Vibecoding-3776AB?style=for-the-badge)
+![still Vibecoding](https://img.shields.io/badge/still%20Vibecoding-7F52FF?style=for-the-badge)
 
 ## Stats
 
